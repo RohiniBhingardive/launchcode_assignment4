@@ -1,0 +1,35 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: gray;
+  
+}
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: turquoise;
+  }
+
+  section {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+  img {
+      width: 700px;
+      height: 500px;
+   
+  }
+
+  .h2css {
+    background-color: yellow;
+  }
+
+  #footer{
+    background-color: red;
+  }
